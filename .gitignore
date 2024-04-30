@@ -1,0 +1,23 @@
+.gradle
+/gradle/
+.out
+/out/
+build/
+!gradle/wrapper/gradle-wrapper.jar
+!**/src/main/**/build/
+!**/src/test/**/build/
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+out/
+settings.gradle
+*.jar
+#*.properties
+*.log
+*.png
+
+### Mac OS ###
+.DS_Store
